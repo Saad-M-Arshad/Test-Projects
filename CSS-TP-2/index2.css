@@ -1,0 +1,16 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DeJavu Sans, sans-serif;
+    color:red;
+}
+
+#idselect1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#evenselect {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
